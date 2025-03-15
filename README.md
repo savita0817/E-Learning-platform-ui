@@ -113,3 +113,6 @@ It is built with **HTML**, **Tailwind CSS**, and **JavaScript** for smooth inter
 
 ---
 *OUTPUT*
+![Image](https://github.com/user-attachments/assets/78d7a869-aab6-4fe9-8dba-56754b5b5196)
+![Image](https://github.com/user-attachments/assets/c29fe587-5f68-477f-af52-6fd41a2bc6d2)
+![Image](https://github.com/user-attachments/assets/73709057-71d6-4195-8251-b7ecb48fd1e0)
